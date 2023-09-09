@@ -52,5 +52,8 @@ HTML & CSS & JavaScript
 
 Link to deployed application
 
+https://cadenbetts1.github.io/Password-Generator/
+
 🔗 Links
+
 https://www.linkedin.com/in/cadenmbetts/
