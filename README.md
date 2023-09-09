@@ -1,4 +1,4 @@
-# 03 JavaScript: Password Generator
+ Password Generator
 
 ## Your Task
 
@@ -35,6 +35,16 @@ THEN the password is either displayed in an alert or written to the page
 ```
 
 Screenshots
+<img width="1440" alt="Screenshot 2023-09-08 at 7 08 54 PM" src="https://github.com/cadenbetts1/Password-Generator/assets/132243976/4b185b4d-7882-47b5-95ed-e3acdd51a148">
+<img width="1440" alt="Screenshot 2023-09-08 at 7 09 13 PM" src="https://github.com/cadenbetts1/Password-Generator/assets/132243976/bdb2c527-46aa-4828-9474-5a466cd09d11">
+
+<img width="1431" alt="Screenshot 2023-09-08 at 7 09 37 PM" src="https://github.com/cadenbetts1/Password-Generator/assets/132243976/0a8241fd-7dd0-448b-86e9-24d6e3edf545">
+
+<img width="1435" alt="Screenshot 2023-09-08 at 7 09 50 PM" src="https://github.com/cadenbetts1/Password-Generator/assets/132243976/1874b293-b833-4e84-b52d-a6dc23e77a57">
+<img width="1429" alt="Screenshot 2023-09-08 at 7 10 03 PM" src="https://github.com/cadenbetts1/Password-Generator/assets/132243976/8245cb06-b418-45bf-b0da-c79ee1ac5598">
+<img width="1431" alt="Screenshot 2023-09-08 at 7 10 14 PM" src="https://github.com/cadenbetts1/Password-Generator/assets/132243976/6e1b3174-6906-4fe6-b329-f8883e1ae25f">
+<img width="1440" alt="Screenshot 2023-09-08 at 7 10 29 PM" src="https://github.com/cadenbetts1/Password-Generator/assets/132243976/3a38d59d-4619-4c5b-890f-d9932adfa8de">
+
 
 Technologies used
 
